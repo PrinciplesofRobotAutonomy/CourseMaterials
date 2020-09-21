@@ -1,6 +1,8 @@
 # AA 274 Course Materials
 An aggregation of links to course materials for the AA 274 set of courses at Stanford, primarily taught by Prof. Marco Pavone.
 
+**NOTE:** Any material used from this course _must_ have the proper attribution (e.g., to Stanford University or the Autonomous Systems Lab).
+
 ## AA 274A: Principles of Robot Autonomy I
 
 1. First and foremost, the [course website](http://asl.stanford.edu/aa274a/) is the best place to find any lectures, assignments, sections, etc. If materials are needed that are still to be taught chronologically during the quarter, [last year's course website](http://asl.stanford.edu/aa274_aut1920/) has all materials available for all weeks.
