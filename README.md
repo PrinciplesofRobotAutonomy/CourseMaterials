@@ -1,5 +1,5 @@
 # AA 274 Course Materials
-An aggregation of links to course materials for the AA 274 set of courses at Stanford, primarily taught by Prof. Marco Pavone .
+An aggregation of links to course materials for the AA 274 set of courses at Stanford, primarily taught by Prof. Marco Pavone.
 
 ## AA 274A: Principles of Robot Autonomy I
 
@@ -14,10 +14,12 @@ An aggregation of links to course materials for the AA 274 set of courses at Sta
     2. HW2: [PDF](http://asl.stanford.edu/aa274a/pdfs/homework/hw2.pdf), [Code](https://github.com/PrinciplesofRobotAutonomy/AA274A_HW2)
     3. HW3: [PDF](http://asl.stanford.edu/aa274a/pdfs/homework/hw3.pdf), [Code](https://github.com/PrinciplesofRobotAutonomy/AA274A_HW3) 
     4. HW4: [PDF](http://asl.stanford.edu/aa274a/pdfs/homework/hw4.pdf), [Code](https://github.com/PrinciplesofRobotAutonomy/AA274A_HW4)
+
 The original LaTeX files for the PDFs can be obtained by request from Prof. Marco Pavone. We do _not_ plan to release solutions for these, it took many years to develop this set of assignments.
 
-5. If students are expected to use their own computers for the course, then [this repo](https://github.com/PrinciplesofRobotAutonomy/aa274-docker) contains virtual machine installation instructions and useful scripts for working with ROS in a VM. It can be quite a task to install ROS, and we didn't want to subject students to that. Instead, we provide them virtual machines containing ROS (and other packages) for the 3 most common operating systems (Linux, macOS, Windows) used nowadays by students.
-    - A word of warning: Gazebo and other similar robotic simulation software can be quite resource intensive. As a result, running simulations in Gazebo within a virtual machine on a laptop (quite a common use case with this course...) can be _painfully_ slow. 
+5. If students are expected to use their own computers for the course, then [this repo](https://github.com/PrinciplesofRobotAutonomy/aa274-docker) contains virtual machine installation instructions and useful scripts for working with ROS in a VM. 
+    - It can be quite a task to install ROS, and we didn't want to subject students to that. Instead, we provide them virtual machines containing ROS (and other packages) for the 3 most common operating systems (Linux, macOS, Windows) used nowadays by students.
+    - **A word of warning:** Gazebo and other similar robotic simulation software can be quite resource intensive. As a result, running simulations in Gazebo within a virtual machine on a laptop (quite a common use case with this course...) can be _painfully_ slow. 
 
 6. All section handouts, slides, and code can be found in [this repository](https://github.com/PrinciplesofRobotAutonomy/AA274_SECTION).
 
